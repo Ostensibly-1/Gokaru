@@ -8,5 +8,11 @@ Notes: this was a tiny mini project that I made to relearn Go and learn the Fyne
 3. Run `go mod tidy` on the project directory
 4. Run `go build .` and wait for the executable
 5. Run `gokaru.exe` or whatever the build name was and enjoy
+## To-do (Chances I will do of these: 0%)
+- finish game-over
+- add scoreboard
+- movement timer
+- board flipping (HELL NO!)
+- pawn promotion
 ## License - The Unlicense, feel free to use this code
 ### Made by Ostensibly-1
