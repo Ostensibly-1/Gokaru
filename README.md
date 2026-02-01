@@ -14,5 +14,6 @@ Notes: this was a tiny mini project that I made to relearn Go and learn the Fyne
 - movement timer
 - board flipping (HELL NO!)
 - pawn promotion
+- castling
 ## License - The Unlicense, feel free to use this code
 ### Made by Ostensibly-1
